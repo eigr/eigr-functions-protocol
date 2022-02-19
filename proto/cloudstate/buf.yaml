@@ -1,5 +1,5 @@
 version: v1
-name: buf.build/eigr/functions/eigr
+name: buf.build/eigr/functions/cloudstate
 breaking:
   use:
     - FILE
